@@ -1,0 +1,65 @@
+004-005 @READ_PROGRAM_MEMORY8.P1
+00C     @SCRATCH
+00D     @SCRATCH
+00D     _RETURN_
+00E     @SCRATCH
+00F     @SCRATCH
+010     MovePoz.i16_State
+011     ExpandX.i16_Poziton
+012     ExpandY.i16_Poziton
+013     ExpandZ.i16_Poziton
+014     ComplressX.i16_Poziton
+015     ComplressY.i16_Poziton
+016     ComplressZ.i16_Poziton
+017     @delay_ms1.P1
+10D-10E @READ_PROGRAM_MEMORY8.P1
+
+ROM Allocation:
+0237  @delay_ms1
+024B  main
+0004  InitOut
+01AF  MovePoz
+012D  ExpandX
+0029  ExpandY
+006A  ExpandZ
+016E  ComplressX
+00EC  ComplressY
+00AB  ComplressZ
+024B  @cinit1
+0255  @cinit2
+
+
+User Memory space: 
+
+User Memory space: 
+
+Project Directory:
+    D:\oleg\scris\utm\robototehnica\schema\prog\
+
+Project Files:
+    main.c                                                  [18-ÿםג-20 08:19  CRC=937290E5]
+    main.h                                                  [18-ÿםג-20 06:32  CRC=0EBF9F21]
+    C:\Program Files (x86)\PICC\devices\16F84A.h            [28-פוג-12 13:43  CRC=4F78B2DA]
+
+Source signature=412395BA
+
+Units:
+    main (main)
+
+Compiler Settings:
+    Processor:      PIC16F84A
+    Pointer Size:   8
+    Opt Level:      9
+    Short,Int,Long: UNSIGNED: 1,8,16
+    Float,Double:   32,32
+
+Output Files:
+    Errors:      main.err
+    Ext Symbols: main.esym
+    INHX8:       main.hex
+    Symbols:     main.sym
+    List:        main.lst
+    Debug/COFF:  main.cof
+    Project:     main.PJT
+    Call Tree:   main.tre
+    Statistics:  main.STA

@@ -1,0 +1,23 @@
+ÀÄmain
+   ÀÄmain  0/17  Ram=0
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ??0??
+      ÃÄInitOut  0/37  Ram=0
+      ÃÄMovePoz  0/136  Ram=0
+      ³  ÃÄExpandY  0/65  Ram=0
+      ³  ÃÄExpandZ  0/65  Ram=0
+      ³  ÃÄComplressZ  0/65  Ram=0
+      ³  ÃÄComplressY  0/65  Ram=0
+      ³  ÃÄExpandY  0/65  Ram=0
+      ³  ÃÄExpandZ  0/65  Ram=0
+      ³  ÃÄExpandX  0/65  Ram=0
+      ³  ÃÄComplressX  0/65  Ram=0
+      ³  ÃÄComplressZ  0/65  Ram=0
+      ³  ÃÄComplressY  0/65  Ram=0
+      ³  ÃÄExpandX  0/65  Ram=0
+      ³  ÃÄExpandZ  0/65  Ram=0
+      ³  ÃÄComplressZ  0/65  Ram=0
+      ³  ÃÄComplressX  0/65  Ram=0
+      ³  ÃÄExpandX  0/65  Ram=0
+      ³  ÀÄComplressX  0/65  Ram=0
+      ÀÄ@delay_ms1  0/20  Ram=1
